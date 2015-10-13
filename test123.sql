@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 --
 -- Структура таблицы `channels`
 --
-
+ 
 CREATE TABLE IF NOT EXISTS `channels` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(40) NOT NULL,
